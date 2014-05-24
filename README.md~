@@ -16,4 +16,4 @@ $this->logger->addToLog($logFile, 'string for log');
 $this->logger->closeLog($logFile, 'optional adding string before close log file');
 
 Author:
-    Vladyslav Polyukhovich aka Vyze
+    Vladislav Polyukhovich aka Vyze
